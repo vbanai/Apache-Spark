@@ -7,10 +7,10 @@ Spark provides cluster (consisting of individual computers) framework for large 
 processing  through its stack (data storage, resource management like cubernetes, spark core  </br>
 API supporting spark libraries like spark sql, spark MLlib etc.).</br>
 </br>
-In this project I am focusing how to work with Spark including:
-                               - Creating a spark session
-                               - Reading data from a computer
-                               - Explore the dataset
-                               - Working with DataFrames and DataSets
-                               - Spark SQL
-                               - RDD (Resilient Ditributed Dataset)
+In this project I am focusing how to work with Spark including:</br>
+                               - Creating a spark session</br>
+                               - Reading data from a computer</br>
+                               - Explore the dataset</br>
+                               - Working with DataFrames and DataSets</br>
+                               - Spark SQL</br>
+                               - RDD (Resilient Ditributed Dataset)</br>
