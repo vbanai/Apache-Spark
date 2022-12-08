@@ -9,7 +9,7 @@ API supporting spark libraries like spark sql, spark MLlib etc.).</br>
 </br>
 In this demo I am focusing on how to work with Spark including:</br>
                                - Creating a spark session</br>
-                               - Reading data from a computer</br>
+                               - Reading data</br>
                                - Explore the dataset</br>
                                - Working with DataFrames and DataSets</br>
                                - Spark SQL</br>
